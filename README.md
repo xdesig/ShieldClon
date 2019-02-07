@@ -6,7 +6,7 @@ charge and discharge control for 3.7v batteries.
 Step-up voltage to 5V
 Support for control of two engines in H bridge TB6612FNG.
 Connection for two neopixel WS2812B through hole technology.
-mmore info [tecnoloxia.org]
+more info [tecnoloxia.org]
 ![Render ShieldClon 0.00][RENDER]
 
 
