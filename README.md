@@ -18,4 +18,4 @@ more info [tecnoloxia.org]
 [tecnoloxia.org]: https://tecnoloxia.org/mclon/que-e-mclon/
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[RENDER]: ShieldClon_0_00.png
+[RENDER]: ShieldClon_0_000.png
