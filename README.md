@@ -1,13 +1,12 @@
 # ShieldClon V 0.00 and 0.01
 
-## initial version.
-Accessible connectors for basic function of MC LON. 
-charge and discharge control for 3.7v batteries. 
-Step-up voltage to 5V
-Support for control of two engines in H bridge TB6612FNG.
-Connection for two neopixel WS2812B through hole technology.
-more info [tecnoloxia.org]
-![Render ShieldClon 0.00][RENDER]
+## initial versions.
+
+SlieldClon is a board designed, specifically for mClon. It allows secure connections to manipulate the robot. It has the basic components for its operation, as well as access to all free connections to be able to add new elements. The robot with ShieldClon feeds through a 18650 Li-ion battery 3.7V, which you can recharge through the board.
+This plate can be complicated to weld by students that do not have much experience, since it has many components and pins very together, but it is a good challenge to learn.
+From the mClon team, we consider it important that students understand the robot's internal functioning, who knows their components and what their function is, so we recommend starting from 4th of ESO not to give the plate already welded, unless previously practiced with protoShield. However, shieldClon can be a good option for work with younger students, always inviting them to connect the sensors and actresses on the shield pins themselves.
+Is valid to be able to carry out many STEM projects based on Arduino[tecnoloxia.org]
+![RENDER]
 
 
 ## Author and license
