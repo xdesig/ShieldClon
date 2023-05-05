@@ -15,7 +15,8 @@ Is valid to be able to carry out many STEM projects based on Arduino
 * License:
  [CERN Open Hardware Licence Version 2] - [Weakly Reciprocal]
  [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
-## More info: [tecnoloxia.org]
+## More info: 
+[tecnoloxia.org]
 <!-- links -->
 [tecnoloxia.org]: https://tecnoloxia.org/mclon/que-e-mclon/
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
