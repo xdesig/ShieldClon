@@ -1,4 +1,4 @@
-# ShieldClon V 0.00
+# ShieldClon V 0.00 and 0.01
 
 ## initial version.
 Accessible connectors for basic function of MC LON. 
@@ -18,4 +18,4 @@ more info [tecnoloxia.org]
 [tecnoloxia.org]: https://tecnoloxia.org/mclon/que-e-mclon/
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[RENDER]: ShieldClon_0_000.png
+[RENDER]: ShieldClon_0_01_34.png
