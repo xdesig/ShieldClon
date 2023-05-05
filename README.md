@@ -6,12 +6,15 @@ SlieldClon is a board designed, specifically for mClon. It allows secure connect
 This plate can be complicated to weld by students that do not have much experience, since it has many components and pins very together, but it is a good challenge to learn.
 From the mClon team, we consider it important that students understand the robot's internal functioning, who knows their components and what their function is, so we recommend starting from 4th of ESO not to give the plate already welded, unless previously practiced with protoShield. However, shieldClon can be a good option for work with younger students, always inviting them to connect the sensors and actresses on the shield pins themselves.
 Is valid to be able to carry out many STEM projects based on Arduino[tecnoloxia.org]
+
 ![RENDER]
 
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-* License: [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
+* License:
+  [CERN Open Hardware Licence Version 2] - [Weakly Reciprocal]
+  [Doc. Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
 
 <!-- links -->
 [tecnoloxia.org]: https://tecnoloxia.org/mclon/que-e-mclon/
