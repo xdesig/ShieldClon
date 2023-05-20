@@ -1,4 +1,4 @@
-# ShieldClon V 0.00 and 0.01
+# ShieldClon V 0.00 and 0.01 <img src="https://github.com/xdesig/ShieldClon/blob/master/img/ES000035.png" width="150" align="right">
 
 ## initial versions.
 
@@ -12,13 +12,21 @@ Is valid to be able to carry out many STEM projects based on Arduino
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-* License:
- [CERN Open Hardware Licence Version 2] - [Weakly Reciprocal]
+** License:[CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
+<img src="https://github.com/xdesig/ShieldClon/blob/master/img/oshw_facts.svg" width="200" align="left">
  [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
-## More info: 
+
+## More info:
 [tecnoloxia.org]
+## To buy boards
+
+Developer don't produce boards to sell. Under [_provider_][provider]
+directory there are instructions to order yourself.
+
+
 <!-- links -->
 [tecnoloxia.org]: https://tecnoloxia.org/mclon/que-e-mclon/
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
-[RENDER]: ShieldClon_0_01_34.png
+[RENDER]: https://github.com/xdesig/ShieldClon/blob/master/img/ShieldClon_0_01_34.png
+[provider]:
