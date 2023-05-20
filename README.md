@@ -1,4 +1,4 @@
-# ShieldClon V 0.00 and 0.01 <img src="https://github.com/xdesig/ShieldClon/blob/master/img/ES000035.png" width="150" align="right">
+# ShieldClon V 0.00 and 0.01 <img src="https://github.com/xdesig/ShieldClon/blob/master/img/ES000035.svg" width="150" align="right">
 
 ## initial versions.
 
