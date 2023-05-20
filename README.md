@@ -12,7 +12,7 @@ Is valid to be able to carry out many STEM projects based on Arduino
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-** License:[CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
+* License:[CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
 <img src="https://github.com/xdesig/ShieldClon/blob/master/img/oshw_facts.svg" width="200" align="left">
  [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
 
