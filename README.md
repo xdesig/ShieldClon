@@ -9,12 +9,15 @@ Is valid to be able to carry out many STEM projects based on Arduino
 
 ![RENDER]
 
+### [Assembly manual][Man]
+#### Deseñado en Estrimia con agarimo.
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
-* License:[CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
-<img src="https://github.com/xdesig/ShieldClon/blob/master/img/oshw_facts.svg" width="200" align="left">
- [Attribution-ShareAlike 4.0 International] [CCBY-SA4.0]
+* License:
+  CERN Open Hardware Licence Version 2 - Weakly Reciprocal"CERN-OHL-W"
+  Doc. Attribution-ShareAlike 4.0 International "CCBY-SA4.0"
+ <img src="https://github.com/xdesig/ShieldClon/blob/master/img/oshw_facts.svg" width="200" align="left">
 
 ## More info:
 [tecnoloxia.org]
@@ -29,4 +32,5 @@ directory there are instructions to order yourself.
 [CCBY-SA4.0]: http://creativecommons.org/licenses/by-sa/4.0/
 [TWI01]: https://twitter.com/xdesig
 [RENDER]: https://github.com/xdesig/ShieldClon/blob/master/img/ShieldClon_0_01_34.png
-[provider]:
+[provider]: https://www.pcbway.com/project/shareproject/W50475ASJ144_NanoClon_001_gerber_f511f448.html
+[Man]: https://github.com/xdesig/ShieldClon/blob/master/ShieldClon_0_00/Montaxe_ShielClon.pdf
